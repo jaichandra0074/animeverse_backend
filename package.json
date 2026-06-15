@@ -2,7 +2,7 @@
   "name": "animeverse-backend",
   "version": "1.0.0",
   "scripts": {
-    "start": "json-server --host 0.0.0.0 --watch db.json --port 10000"
+    "start": "npx json-server --host 0.0.0.0 --watch db.json --port $PORT"
   },
   "dependencies": {
     "json-server": "^0.17.4"
