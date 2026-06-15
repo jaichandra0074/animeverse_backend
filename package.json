@@ -1,13 +1,10 @@
 {
   "name": "animeverse-backend",
   "version": "1.0.0",
-  "description": "AnimeVerse Backend",
-  "main": "index.js",
-  "type": "commonjs",
   "scripts": {
-    "start": "npx json-server --host 0.0.0.0 --watch db.json --port 10000"
+    "start": "json-server --host 0.0.0.0 --watch db.json --port 10000"
   },
   "dependencies": {
-    "json-server": "^1.0.0-beta.15"
+    "json-server": "^0.17.4"
   }
 }
