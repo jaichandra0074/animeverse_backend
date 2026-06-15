@@ -1,0 +1,181 @@
+{
+  "anime": [
+    {
+      "id": 1,
+      "title": "Naruto Shippuden",
+      "genre": "Action",
+      "rating": 4.9,
+      "poster": "https://cdn.myanimelist.net/images/anime/1565/111305l.jpg",
+      "description": "Naruto Uzumaki continues his journey to become Hokage.",
+      "trailer": "https://www.youtube.com/embed/IRrubxYmGzc"
+    },
+    {
+      "id": 2,
+      "title": "One Piece",
+      "genre": "Adventure",
+      "rating": 4.9,
+      "poster": "https://cdn.myanimelist.net/images/anime/6/73245l.jpg",
+      "description": "Luffy sails the Grand Line to become Pirate King.",
+      "trailer": "https://www.youtube.com/embed/S8_YwFLCh4U"
+    },
+    {
+      "id": 3,
+      "title": "Attack on Titan",
+      "genre": "Action",
+      "rating": 4.9,
+      "poster": "https://cdn.myanimelist.net/images/anime/10/47347l.jpg",
+      "description": "Humanity fights for survival against Titans.",
+      "trailer": "https://www.youtube.com/embed/MGRm4IzK1SQ"
+    },
+    {
+      "id": 4,
+      "title": "Demon Slayer",
+      "genre": "Action",
+      "rating": 4.8,
+      "poster": "https://cdn.myanimelist.net/images/anime/1286/99889l.jpg",
+      "description": "Tanjiro battles demons to save his sister.",
+      "trailer": "https://www.youtube.com/embed/VQGCKyvzIM4"
+    },
+    {
+      "id": 5,
+      "title": "Jujutsu Kaisen",
+      "genre": "Fantasy",
+      "rating": 4.8,
+      "poster": "https://cdn.myanimelist.net/images/anime/1171/109222l.jpg",
+      "description": "Yuji enters the dangerous world of curses.",
+      "trailer": "https://www.youtube.com/embed/pkKu9hLT-t8"
+    },
+    {
+      "id": 6,
+      "title": "Death Note",
+      "genre": "Thriller",
+      "rating": 4.9,
+      "poster": "https://cdn.myanimelist.net/images/anime/9/9453l.jpg",
+      "description": "Light Yagami gains a notebook with deadly powers.",
+      "trailer": "https://www.youtube.com/embed/NlJZ-YgAt-c"
+    },
+    {
+      "id": 7,
+      "title": "My Hero Academia",
+      "genre": "Superhero",
+      "rating": 4.7,
+      "poster": "https://cdn.myanimelist.net/images/anime/10/78745l.jpg",
+      "description": "Izuku Midoriya trains to become a hero.",
+      "trailer": "https://www.youtube.com/embed/D5fYOnwYviM"
+    },
+    {
+      "id": 8,
+      "title": "Tokyo Revengers",
+      "genre": "Action",
+      "rating": 4.6,
+      "poster": "https://cdn.myanimelist.net/images/anime/1839/122012l.jpg",
+      "description": "Takemichi travels through time to save his friends.",
+      "trailer": "https://www.youtube.com/embed/Ndl2y_bZFoo"
+    },
+    {
+      "id": 9,
+      "title": "Chainsaw Man",
+      "genre": "Action",
+      "rating": 4.8,
+      "poster": "https://cdn.myanimelist.net/images/anime/1806/126216l.jpg",
+      "description": "Denji merges with a devil and becomes Chainsaw Man.",
+      "trailer": "https://www.youtube.com/embed/l96zmDlWCBk"
+    },
+    {
+      "id": 10,
+      "title": "Bleach",
+      "genre": "Action",
+      "rating": 4.8,
+      "poster": "https://cdn.myanimelist.net/images/anime/3/40451l.jpg",
+      "description": "Ichigo Kurosaki becomes a Soul Reaper.",
+      "trailer": "https://www.youtube.com/embed/78WIYzX_m98"
+    }
+  ],
+
+  "products": [
+    {
+      "id": 1,
+      "name": "Naruto Hoodie",
+      "price": 1499,
+      "anime": "Naruto",
+      "image": "https://i.pinimg.com/736x/26/1f/00/261f0077e85ed58d5c111e817c86f7aa.jpg",
+      "description": "Premium Naruto Hoodie"
+    },
+    {
+      "id": 2,
+      "name": "One Piece Figure",
+      "price": 2499,
+      "anime": "One Piece",
+      "image": "https://shoppingnest.in/cdn/shop/files/P1891504.jpg?v=1730372417&width=1946",
+      "description": "Luffy Collectible Figure"
+    },
+    {
+      "id": 3,
+      "name": "Attack on Titan Poster",
+      "price": 499,
+      "anime": "Attack on Titan",
+      "image": "https://rukminim2.flixcart.com/image/480/640/xif0q/poster/s/a/d/medium-attack-on-titan-season-2-framed-poster-attack-on-titans-original-imah2k9zfkz63j7r.jpeg?q=90",
+      "description": "High Quality Wall Poster"
+    },
+    {
+      "id": 4,
+      "name": "Demon Slayer Katana",
+      "price": 3999,
+      "anime": "Demon Slayer",
+      "image": "https://placehold.co/800x800/1D3557/FFFFFF?text=Demon+Slayer+Katana",
+      "description": "Decorative Anime Sword"
+    },
+    {
+      "id": 5,
+      "name": "Jujutsu Kaisen Keychain",
+      "price": 299,
+      "anime": "Jujutsu Kaisen",
+      "image": "https://placehold.co/800x800/6A0572/FFFFFF?text=JJK+Keychain",
+      "description": "Metal Keychain"
+    },
+    {
+      "id": 6,
+      "name": "Death Note Notebook",
+      "price": 699,
+      "anime": "Death Note",
+      "image": "https://placehold.co/800x800/000000/FFFFFF?text=Death+Note+Notebook",
+      "description": "Replica Death Note Notebook"
+    },
+    {
+      "id": 7,
+      "name": "My Hero Academia T-Shirt",
+      "price": 999,
+      "anime": "My Hero Academia",
+      "image": "https://placehold.co/800x800/D62828/FFFFFF?text=MHA+T-Shirt",
+      "description": "Premium Cotton T-Shirt"
+    },
+    {
+      "id": 8,
+      "name": "Tokyo Revengers Cap",
+      "price": 799,
+      "anime": "Tokyo Revengers",
+      "image": "https://placehold.co/800x800/3A506B/FFFFFF?text=Tokyo+Revengers+Cap",
+      "description": "Anime Printed Cap"
+    },
+    {
+      "id": 9,
+      "name": "Chainsaw Man Poster",
+      "price": 499,
+      "anime": "Chainsaw Man",
+      "image": "https://placehold.co/800x800/8D0801/FFFFFF?text=Chainsaw+Man+Poster",
+      "description": "Premium Poster"
+    },
+    {
+      "id": 10,
+      "name": "Bleach Action Figure",
+      "price": 2199,
+      "anime": "Bleach",
+      "image": "https://placehold.co/800x800/F77F00/FFFFFF?text=Bleach+Figure",
+      "description": "Ichigo Action Figure"
+    }
+  ],
+
+  "users": [],
+  "orders": [],
+  "watchlist": []
+}
